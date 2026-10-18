@@ -1,0 +1,318 @@
+2:"$Sreact.fragment"
+3:"/_next/static/chunks/1eb2vxzvsto68.js"
+4:"/_next/static/chunks/2fbrx7thx69xb.js"
+5:"/_next/static/chunks/3uqhkzwz1ie1h.js"
+6:"/_next/static/chunks/3qwg93xcoq75n.js"
+7:I[39756,["$3","$4","$5","$6"],"default"]
+8:I[37457,["$3","$4","$5","$6"],"default"]
+e:"/_next/static/chunks/09e3h46iqnwfl.js"
+f:I[22016,["$3","$4","$5","$6","$e"],""]
+1a:"ViewportBoundary"
+1b:I[97367,["$3","$4","$5","$6"],"$1a"]
+1c:"MetadataBoundary"
+1d:I[97367,["$3","$4","$5","$6"],"$1c"]
+1e:"$Sreact.suspense"
+1f:I[27201,["$3","$4","$5","$6"],"IconMark"]
+a:X
+a:C
+b:X
+d:T526,[{"@context":"https://schema.org","@type":"TechArticle","headline":"Density Chart with Multiple Groups","description":"Plotting multiple groups on a density chart with annotations using seaborn","url":"https://python-graph-gallery.com/density-chart-multiple-groups-seaborn/","mainEntityOfPage":"https://python-graph-gallery.com/density-chart-multiple-groups-seaborn/","image":"https://python-graph-gallery.com/posts/density-chart-multiple-groups-seaborn/output-1.png","dateModified":"2026-10-13T11:47:31+02:00","author":{"@type":"Person","name":"Yan Holtz","url":"https://www.yan-holtz.com"},"publisher":{"@type":"Organization","name":"The Python Graph Gallery","url":"https://python-graph-gallery.com/"},"programmingLanguage":"Python","inLanguage":"en","isPartOf":{"@type":"WebSite","name":"The Python Graph Gallery","url":"https://python-graph-gallery.com/"}},{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"The Python Graph Gallery","item":"https://python-graph-gallery.com/"},{"@type":"ListItem","position":2,"name":"Density","item":"https://python-graph-gallery.com/density-plot/"},{"@type":"ListItem","position":3,"name":"Density Chart with Multiple Groups","item":"https://python-graph-gallery.com/density-chart-multiple-groups-seaborn/"}]}]c:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$d"}}],["$","div",null,{"className":"wrapper","children":["$","div",null,{"className":"w-full pt-12 pb-6 sm:pt-20","children":[["$","div",null,{"className":"flex items-center justify-between gap-6","children":[["$","h1",null,{"children":"Density Chart with Multiple Groups"}],["$","div",null,{"className":"w-16 min-w-16 sm:w-20 sm:min-w-20","children":["$","img",null,{"src":"/thumbs/section/Density150.webp","alt":"logo of a chart:Density","width":150,"height":150,"loading":"lazy","className":"h-auto w-full"}]}]]}],["$","div",null,{"className":"title-underline mt-6 h-[2px] w-full max-w-[400px] rounded-full bg-foreground/15"}],["$","div",null,{"className":"mt-6","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"<p>This post shows how to compare the distribution of several variables with density charts using the <b>kdeplot()</b> function of <a href='http://python-graph-gallery.com/seaborn/'>seaborn</a> library. Here are a few examples with descriptions.</p>"}}]}],["$","div",null,{"className":"mt-6 flex flex-wrap gap-2","children":[["$","$Lf",null,{"href":"/density-plot/","className":"group/button inline-flex shrink-0 items-center justify-center border bg-clip-padding font-medium whitespace-nowrap transition-all outline-none select-none focus-visible:border-ring focus-visible:ring-3 focus-visible:ring-ring/50 active:not-aria-[haspopup]:translate-y-px disabled:pointer-events-none disabled:opacity-50 aria-invalid:border-destructive aria-invalid:ring-3 aria-invalid:ring-destructive/20 dark:aria-invalid:border-destructive/50 dark:aria-invalid:ring-destructive/40 [&_svg]:pointer-events-none [&_svg]:shrink-0 border-border bg-background hover:bg-muted hover:text-foreground aria-expanded:bg-muted aria-expanded:text-foreground dark:border-input dark:bg-input/30 dark:hover:bg-input/50 h-7 gap-1 rounded-[min(var(--radius-md),12px)] px-2.5 text-[0.8rem] in-data-[slot=button-group]:rounded-lg has-data-[icon=inline-end]:pr-1.5 has-data-[icon=inline-start]:pl-1.5 [&_svg:not([class*='size-'])]:size-3.5","children":"Density section"}],"$L10"]}]]}]}],"$L11","$L12","$L13","$L14","$L15","$L16"],["$L17"],"$L18"]}],"p":"$@19","v":null,"s":"$b"}}]]
+1:[["children",{"s":{"n":"slug","t":"d","k":"density-chart-multiple-groups-seaborn","s":["2d-density-plot","3d","about","all-charts","animation","arc-diagram","area-plot","barplot","beeswarm","best-dataviz-packages","best-python-chart-examples","boxplot","bubble-map","bubble-plot","candlestick","cartogram","cheat-sheets","chord-diagram","choropleth-map","circular-barplot","circular-packing","color-palette-finder","connected-scatter-plot","connection-map","correlogram","dendrogram","density-plot","donut-plot","drawarrow","heatmap","hexbin-map","hierarchical-edge-bundling","histogram","line-chart","lollipop-plot","map","matplotlib","network-chart","pandas","parallel-plot","pie-plot","plotly","plotnine","pyfonts","python-colors","radar-chart","ridgeline","sankey-diagram","scatter-plot","seaborn","search-index.json","stacked-area-plot","statistics","streamchart","table","timeseries","treemap","venn-diagram","violin-plot","waffle-chart","wordcloud"]},"h":65600,"d":{"r":["$","$2","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}]}]]}],"p":"$@9","v":"$a","s":"$b"},"c":"$Qc"}]]
+0:{"t":{"t":{"s":"","h":131088,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L1b",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#cb1dd1"}]]}],["$","$L1d",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1e",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Density Chart with Multiple Groups"}],["$","meta","1",{"name":"description","content":"Plotting multiple groups on a density chart with annotations using seaborn"}],["$","meta","2",{"name":"author","content":"Yan Holtz"}],["$","link","3",{"rel":"manifest","href":"/manifest.webmanifest"}],["$","meta","4",{"name":"keywords","content":"python, chart, plot, seaborn, matplotlib, kdeplot, density, stack"}],["$","link","5",{"rel":"canonical","href":"https://python-graph-gallery.com/density-chart-multiple-groups-seaborn/"}],["$","meta","6",{"property":"og:title","content":"Density Chart with Multiple Groups"}],["$","meta","7",{"property":"og:description","content":"Plotting multiple groups on a density chart with annotations using seaborn"}],["$","meta","8",{"property":"og:site_name","content":"The Python Graph Gallery"}],["$","meta","9",{"property":"og:image","content":"https://python-graph-gallery.com/posts/density-chart-multiple-groups-seaborn/output-1.png"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:site","content":"@R_Graph_Gallery"}],["$","meta","12",{"name":"twitter:title","content":"Density Chart with Multiple Groups"}],["$","meta","13",{"name":"twitter:description","content":"Plotting multiple groups on a density chart with annotations using seaborn"}],["$","meta","14",{"name":"twitter:image","content":"https://python-graph-gallery.com/posts/density-chart-multiple-groups-seaborn/output-1.png"}],["$","link","15",{"rel":"icon","href":"/favicon-32x32.png","type":"image/png"}],["$","link","16",{"rel":"apple-touch-icon","href":"/icons/icon-48x48.png","sizes":"48x48"}],["$","link","17",{"rel":"apple-touch-icon","href":"/icons/icon-72x72.png","sizes":"72x72"}],["$","link","18",{"rel":"apple-touch-icon","href":"/icons/icon-96x96.png","sizes":"96x96"}],["$","link","19",{"rel":"apple-touch-icon","href":"/icons/icon-144x144.png","sizes":"144x144"}],["$","link","20",{"rel":"apple-touch-icon","href":"/icons/icon-192x192.png","sizes":"192x192"}],["$","link","21",{"rel":"apple-touch-icon","href":"/icons/icon-256x256.png","sizes":"256x256"}],["$","link","22",{"rel":"apple-touch-icon","href":"/icons/icon-384x384.png","sizes":"384x384"}],["$","link","23",{"rel":"apple-touch-icon","href":"/icons/icon-512x512.png","sizes":"512x512"}],["$","$L1f","24",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@20","v":null,"s":"$b"}},"a":"$@21","u":"$@22","b":"sokOuj-9ffqJ71yCu6ubr"}
+23:I[98936,["$3","$4","$5","$6","$e"],"default"]
+28:I[63971,["$3","$4","$5","$6","$e"],"default"]
+29:I[59351,["$3","$4","$5","$6","$e"],"default"]
+2a:I[97367,["$3","$4","$5","$6"],"OutletBoundary"]
+10:["$","a",null,{"href":"https://www.data-to-viz.com/graph/density.html","className":"group/button inline-flex shrink-0 items-center justify-center border bg-clip-padding font-medium whitespace-nowrap transition-all outline-none select-none focus-visible:border-ring focus-visible:ring-3 focus-visible:ring-ring/50 active:not-aria-[haspopup]:translate-y-px disabled:pointer-events-none disabled:opacity-50 aria-invalid:border-destructive aria-invalid:ring-3 aria-invalid:ring-destructive/20 dark:aria-invalid:border-destructive/50 dark:aria-invalid:ring-destructive/40 [&_svg]:pointer-events-none [&_svg]:shrink-0 border-border bg-background hover:bg-muted hover:text-foreground aria-expanded:bg-muted aria-expanded:text-foreground dark:border-input dark:bg-input/30 dark:hover:bg-input/50 h-7 gap-1 rounded-[min(var(--radius-md),12px)] px-2.5 text-[0.8rem] in-data-[slot=button-group]:rounded-lg has-data-[icon=inline-end]:pr-1.5 has-data-[icon=inline-start]:pl-1.5 [&_svg:not([class*='size-'])]:size-3.5","children":"About this chart"}]
+24:T51d,# libraries
+import seaborn as sns
+import matplotlib.pyplot as plt
+import pandas as pd
+
+# set seaborn whitegrid theme
+sns.set_theme(style="whitegrid")
+
+# load dataset from github and convert it to a long format
+data = pd.read_csv(
+    "https://raw.githubusercontent.com/zonination/perceptions/master/probly.csv"
+)
+data = pd.melt(data, var_name="text", value_name="value")
+
+# take only "Almost No Chance", "About Even", "Probable", "Almost Certainly"
+data = data.loc[
+    data.text.isin(["Almost No Chance", "About Even", "Probable", "Almost Certainly"])
+]
+
+# density plot
+p = sns.kdeplot(
+    data=data,
+    x="value",
+    hue="text",
+    fill=True,
+    common_norm=False,
+    alpha=0.6,
+    palette="viridis",
+    legend=False,
+)
+# control x limit
+plt.xlim(0, 100)
+
+# dataframe for annotations
+annot = pd.DataFrame(
+    {
+        "x": [5, 53, 65, 79],
+        "y": [0.15, 0.4, 0.06, 0.1],
+        "text": ["Almost No Chance", "About Even", "Probable", "Almost Certainly"],
+    }
+)
+
+# add annotations one by one with a loop
+for point in range(0, len(annot)):
+    p.text(
+        annot.x[point],
+        annot.y[point],
+        annot.text[point],
+        horizontalalignment="left",
+        size="large",
+    )
+
+# add axis names
+plt.xlabel("Assigned Probability (%)")
+plt.ylabel("")
+
+# show the graph
+plt.show()11:["$","article",null,{"className":"wrapper post-content","children":["$","$L23",null,{"cells":["# libraries\nimport seaborn as sns\nimport matplotlib.pyplot as plt\nfrom plotnine.data import diamonds  # dataset\n\n# Set figure size for the notebook\nplt.rcParams[\"figure.figsize\"] = 12, 8\n\n# set seaborn whitegrid theme\nsns.set_theme(style=\"whitegrid\")\n\n# Without transparency\nsns.kdeplot(\n    data=diamonds, x=\"price\", hue=\"cut\", cut=0, fill=True, common_norm=False, alpha=1\n)\nplt.show()","# With transparency\nsns.kdeplot(\n    data=diamonds, x=\"price\", hue=\"cut\", fill=True, common_norm=False, alpha=0.4\n)\nplt.show()","$24","# libraries\nimport seaborn as sns\nimport matplotlib.pyplot as plt\nfrom plotnine.data import diamonds  # dataset\n\n# set seaborn whitegrid theme\nsns.set_theme(style=\"whitegrid\")\n\n# using small multiple\n# create a grid\ng = sns.FacetGrid(diamonds, col=\"cut\", hue=\"cut\", col_wrap=3)\n\n# draw density plots\ng = g.map(\n    sns.kdeplot, \"price\", cut=0, fill=True, common_norm=False, alpha=1, legend=False\n)\n\n# control the title of each facet\ng = g.set_titles(\"{col_name}\")\n\n# show the graph\nplt.show()","# libraries\nimport seaborn as sns\nimport matplotlib.pyplot as plt\nfrom plotnine.data import diamonds  # dataset\n\n# set seaborn whitegrid theme\nsns.set_theme(style=\"whitegrid\")\n\n# stacked density plot\nsns.kdeplot(\n    data=diamonds, x=\"price\", hue=\"cut\", common_norm=False, multiple=\"fill\", alpha=1\n)\n\n# show the graph\nplt.show()","# libraries\nimport seaborn as sns\nimport matplotlib.pyplot as plt\nfrom plotnine.data import diamonds  # dataset\nfrom pypalettes import load_palette\n\nplt.rcParams[\"figure.dpi\"] = 300\n\n# set seaborn whitegrid theme\nsns.set_theme(style=\"whitegrid\")\n\npalette = load_palette(\"Acadia\", keep_first_n=5)\n\n# stacked density plot\nfig, ax = plt.subplots(figsize=(10, 10))\nsns.kdeplot(\n    data=diamonds,\n    x=\"price\",\n    hue=\"cut\",\n    common_norm=False,\n    multiple=\"fill\",\n    alpha=1,\n    palette=palette,\n    ax=ax,\n)\n\n# show the graph\nplt.show()"],"children":"$L25"}]}]
+12:["$","div",null,{"className":"wrapper","children":["$","section",null,{"children":[["$","h2",null,{"id":"Related posts","children":"Related posts"}],["$","div",null,{"className":"grid grid-cols-2 gap-4 sm:grid-cols-3","children":[["$","$Lf","density-mirror",{"href":"/density-mirror/","className":"group block","children":[["$","div",null,{"className":"flex aspect-[4/3] items-center justify-center overflow-hidden rounded-lg border bg-white p-2","children":["$","img",null,{"src":"/posts/density-mirror/output-1-thumb.webp","alt":"Mirror Density and Histogram Chart","loading":"lazy","decoding":"async","className":"max-h-full max-w-full object-contain transition-transform duration-300 group-hover:scale-[1.03]"}]}],["$","p",null,{"className":"!mt-2 line-clamp-2 text-sm leading-5 font-medium group-hover:underline group-hover:underline-offset-4","children":"Mirror Density and Histogram Chart"}]]}],["$","$Lf","seaborn-title-customization",{"href":"/seaborn-title-customization/","className":"group block","children":[["$","div",null,{"className":"flex aspect-[4/3] items-center justify-center overflow-hidden rounded-lg border bg-white p-2","children":["$","img",null,{"src":"/posts/seaborn-title-customization/output-1-thumb.webp","alt":"Seaborn Titles","loading":"lazy","decoding":"async","className":"max-h-full max-w-full object-contain transition-transform duration-300 group-hover:scale-[1.03]"}]}],["$","p",null,{"className":"!mt-2 line-clamp-2 text-sm leading-5 font-medium group-hover:underline group-hover:underline-offset-4","children":"Seaborn Titles"}]]}],["$","$Lf","13-percent-stacked-barplot",{"href":"/13-percent-stacked-barplot/","className":"group block","children":[["$","div",null,{"className":"flex aspect-[4/3] items-center justify-center overflow-hidden rounded-lg border bg-white p-2","children":["$","img",null,{"src":"/posts/13-percent-stacked-barplot/output-1-thumb.webp","alt":"Percent stacked barplot","loading":"lazy","decoding":"async","className":"max-h-full max-w-full object-contain transition-transform duration-300 group-hover:scale-[1.03]"}]}],["$","p",null,{"className":"!mt-2 line-clamp-2 text-sm leading-5 font-medium group-hover:underline group-hover:underline-offset-4","children":"Percent stacked barplot"}]]}],["$","$Lf","199-matplotlib-style-sheets",{"href":"/199-matplotlib-style-sheets/","className":"group block","children":[["$","div",null,{"className":"flex aspect-[4/3] items-center justify-center overflow-hidden rounded-lg border bg-white p-2","children":["$","img",null,{"src":"/posts/199-matplotlib-style-sheets/output-1-thumb.webp","alt":"Apply a style sheet to Matplotlib","loading":"lazy","decoding":"async","className":"max-h-full max-w-full object-contain transition-transform duration-300 group-hover:scale-[1.03]"}]}],["$","p",null,{"className":"!mt-2 line-clamp-2 text-sm leading-5 font-medium group-hover:underline group-hover:underline-offset-4","children":"Apply a style sheet to Matplotlib"}]]}],["$","$Lf","575-distribution-plot-with-quantiles",{"href":"/575-distribution-plot-with-quantiles/","className":"group block","children":[["$","div",null,{"className":"flex aspect-[4/3] items-center justify-center overflow-hidden rounded-lg border bg-white p-2","children":["$","img",null,{"src":"/posts/575-distribution-plot-with-quantiles/output-1-thumb.webp","alt":"Distribution plot with quantiles","loading":"lazy","decoding":"async","className":"max-h-full max-w-full object-contain transition-transform duration-300 group-hover:scale-[1.03]"}]}],["$","p",null,{"className":"!mt-2 line-clamp-2 text-sm leading-5 font-medium group-hover:underline group-hover:underline-offset-4","children":"Distribution plot with quantiles"}]]}],["$","$Lf","70-basic-density-plot-with-seaborn",{"href":"/70-basic-density-plot-with-seaborn/","className":"group block","children":[["$","div",null,{"className":"flex aspect-[4/3] items-center justify-center overflow-hidden rounded-lg border bg-white p-2","children":"$L26"}],"$L27"]}]]}]]}]}]
+13:["$","div",null,{"className":"wrapper","children":["$","div",null,{"className":"pb-4","children":[["$","h2",null,{"id":"Related charts","children":"Related chart types"}],["$","div",null,{"className":"grid grid-cols-4 gap-x-1 gap-y-3 pt-3 sm:grid-cols-6 md:grid-cols-7","children":[["$","$Lf","violin",{"href":"/violin-plot/","className":"group block no-underline","children":[["$","div",null,{"className":"relative","children":[["$","img",null,{"src":"/thumbs/section/Violin150.webp","alt":"logo of a chart:Violin","width":150,"height":150,"loading":"lazy","className":"h-auto w-full"}],["$","div",null,{"className":"absolute inset-0 rounded-full bg-foreground opacity-0 transition-opacity duration-200 group-hover:opacity-10"}]]}],["$","p",null,{"className":"!mt-1 text-center text-xs leading-4 text-muted-foreground group-hover:text-foreground","children":"Violin"}]]}],["$","$Lf","density",{"href":"/density-plot/","className":"group block no-underline","children":[["$","div",null,{"className":"relative","children":[["$","img",null,{"src":"/thumbs/section/Density150.webp","alt":"logo of a chart:Density","width":150,"height":150,"loading":"lazy","className":"h-auto w-full"}],["$","div",null,{"className":"absolute inset-0 rounded-full bg-foreground opacity-0 transition-opacity duration-200 group-hover:opacity-10"}]]}],["$","p",null,{"className":"!mt-1 text-center text-xs leading-4 text-muted-foreground group-hover:text-foreground","children":"Density"}]]}],["$","$Lf","histogram",{"href":"/histogram/","className":"group block no-underline","children":[["$","div",null,{"className":"relative","children":[["$","img",null,{"src":"/thumbs/section/Histogram150.webp","alt":"logo of a chart:Histogram","width":150,"height":150,"loading":"lazy","className":"h-auto w-full"}],["$","div",null,{"className":"absolute inset-0 rounded-full bg-foreground opacity-0 transition-opacity duration-200 group-hover:opacity-10"}]]}],["$","p",null,{"className":"!mt-1 text-center text-xs leading-4 text-muted-foreground group-hover:text-foreground","children":"Histogram"}]]}],["$","$Lf","boxplot",{"href":"/boxplot/","className":"group block no-underline","children":[["$","div",null,{"className":"relative","children":[["$","img",null,{"src":"/thumbs/section/Box1150.webp","alt":"logo of a chart:Box1","width":150,"height":150,"loading":"lazy","className":"h-auto w-full"}],["$","div",null,{"className":"absolute inset-0 rounded-full bg-foreground opacity-0 transition-opacity duration-200 group-hover:opacity-10"}]]}],["$","p",null,{"className":"!mt-1 text-center text-xs leading-4 text-muted-foreground group-hover:text-foreground","children":"Boxplot"}]]}],["$","$Lf","ridgeline",{"href":"/ridgeline/","className":"group block no-underline","children":[["$","div",null,{"className":"relative","children":[["$","img",null,{"src":"/thumbs/section/Joyplot150.webp","alt":"logo of a chart:Joyplot","width":150,"height":150,"loading":"lazy","className":"h-auto w-full"}],["$","div",null,{"className":"absolute inset-0 rounded-full bg-foreground opacity-0 transition-opacity duration-200 group-hover:opacity-10"}]]}],["$","p",null,{"className":"!mt-1 text-center text-xs leading-4 text-muted-foreground group-hover:text-foreground","children":"Ridgeline"}]]}],["$","$Lf","beeswarm",{"href":"/beeswarm/","className":"group block no-underline","children":[["$","div",null,{"className":"relative","children":[["$","img",null,{"src":"/thumbs/section/Beeswarm2Big.webp","alt":"logo of a chart:Beeswarm2Big","width":473,"height":473,"loading":"lazy","className":"h-auto w-full"}],["$","div",null,{"className":"absolute inset-0 rounded-full bg-foreground opacity-0 transition-opacity duration-200 group-hover:opacity-10"}]]}],["$","p",null,{"className":"!mt-1 text-center text-xs leading-4 text-muted-foreground group-hover:text-foreground","children":"Beeswarm"}]]}]]}]]}]}]
+14:["$","div",null,{"className":"h-16 sm:h-20"}]
+15:["$","div",null,{"className":"wrapper","children":["$","$L28",null,{}]}]
+16:["$","$L29",null,{}]
+17:["$","script","script-0",{"src":"/_next/static/chunks/09e3h46iqnwfl.js","async":true}]
+18:["$","$L2a",null,{"children":["$","$1e",null,{"name":"Next.MetadataOutlet","children":"$@2b"}]}]
+22:true
+2c:I[68978,["$3","$4","$5","$6","$e"],"default"]
+b:300
+2d:Tb7c,<pre class="shiki github-light" style="background-color:#fff;color:#24292e" tabindex="0"><code><span class="line"><span style="color:#6A737D"># libraries</span></span>
+<span class="line"><span style="color:#D73A49">import</span><span style="color:#24292E"> seaborn </span><span style="color:#D73A49">as</span><span style="color:#24292E"> sns</span></span>
+<span class="line"><span style="color:#D73A49">import</span><span style="color:#24292E"> matplotlib.pyplot </span><span style="color:#D73A49">as</span><span style="color:#24292E"> plt</span></span>
+<span class="line"><span style="color:#D73A49">from</span><span style="color:#24292E"> plotnine.data </span><span style="color:#D73A49">import</span><span style="color:#24292E"> diamonds  </span><span style="color:#6A737D"># dataset</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#6A737D"># Set figure size for the notebook</span></span>
+<span class="line"><span style="color:#24292E">plt.rcParams[</span><span style="color:#032F62">"figure.figsize"</span><span style="color:#24292E">] </span><span style="color:#D73A49">=</span><span style="color:#005CC5"> 12</span><span style="color:#24292E">, </span><span style="color:#005CC5">8</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#6A737D"># set seaborn whitegrid theme</span></span>
+<span class="line"><span style="color:#24292E">sns.set_theme(</span><span style="color:#E36209">style</span><span style="color:#D73A49">=</span><span style="color:#032F62">"whitegrid"</span><span style="color:#24292E">)</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#6A737D"># Without transparency</span></span>
+<span class="line"><span style="color:#24292E">sns.kdeplot(</span></span>
+<span class="line"><span style="color:#E36209">    data</span><span style="color:#D73A49">=</span><span style="color:#24292E">diamonds, </span><span style="color:#E36209">x</span><span style="color:#D73A49">=</span><span style="color:#032F62">"price"</span><span style="color:#24292E">, </span><span style="color:#E36209">hue</span><span style="color:#D73A49">=</span><span style="color:#032F62">"cut"</span><span style="color:#24292E">, </span><span style="color:#E36209">cut</span><span style="color:#D73A49">=</span><span style="color:#005CC5">0</span><span style="color:#24292E">, </span><span style="color:#E36209">fill</span><span style="color:#D73A49">=</span><span style="color:#005CC5">True</span><span style="color:#24292E">, </span><span style="color:#E36209">common_norm</span><span style="color:#D73A49">=</span><span style="color:#005CC5">False</span><span style="color:#24292E">, </span><span style="color:#E36209">alpha</span><span style="color:#D73A49">=</span><span style="color:#005CC5">1</span></span>
+<span class="line"><span style="color:#24292E">)</span></span>
+<span class="line"><span style="color:#24292E">plt.show()</span></span></code></pre>25:[["$","h2","h2-0",{"children":"Density Chart with Multiple Groups"}],["$","$L2c","notebook-cell-0",{"index":0,"code":"# libraries\nimport seaborn as sns\nimport matplotlib.pyplot as plt\nfrom plotnine.data import diamonds  # dataset\n\n# Set figure size for the notebook\nplt.rcParams[\"figure.figsize\"] = 12, 8\n\n# set seaborn whitegrid theme\nsns.set_theme(style=\"whitegrid\")\n\n# Without transparency\nsns.kdeplot(\n    data=diamonds, x=\"price\", hue=\"cut\", cut=0, fill=True, common_norm=False, alpha=1\n)\nplt.show()","highlighted":"$2d","interactive":true,"hasChart":true,"intro":"$L2e","output":"$L2f"}],"$L30","$L31","\n","$L32","$L33","\n","$L34","$L35","$L36","\n","$L37","$L38"]
+26:["$","img",null,{"src":"/posts/70-basic-density-plot-with-seaborn/output-1-thumb.webp","alt":"Basic density plot with seaborn","loading":"lazy","decoding":"async","className":"max-h-full max-w-full object-contain transition-transform duration-300 group-hover:scale-[1.03]"}]
+27:["$","p",null,{"className":"!mt-2 line-clamp-2 text-sm leading-5 font-medium group-hover:underline group-hover:underline-offset-4","children":"Basic density plot with seaborn"}]
+2b:null
+41:I[35718,["$3","$4","$5","$6","$e"],"default"]
+b:C
+2e:[["$","p","p-0",{"children":["A ",["$","strong","strong-0",{"children":"multi density"}]," chart allows to compare the distribution of several groups. Unfortunatelly, this type of charts tend to get ",["$","strong","strong-1",{"children":"cluttered"}],": groups overlap each other and the figure gets unreadable. An easy workaround is to use ",["$","strong","strong-2",{"children":"transparency"}],". However, it won’t solve the issue completely and it is often better to consider other options suggested further in this post."]}]]
+2f:[["$","p","p-0",{"children":["$","img","img-0",{"src":"/posts/density-chart-multiple-groups-seaborn/output-1-800.webp","alt":"Density Chart with Multiple Groups","width":1039,"height":683,"srcSet":"/posts/density-chart-multiple-groups-seaborn/output-1-800.webp 800w, /posts/density-chart-multiple-groups-seaborn/output-1-1600.webp 1600w","sizes":"(min-width: 820px) 780px, 100vw","loading":"lazy","decoding":"async"}]}]]
+39:T4fa,<pre class="shiki github-light" style="background-color:#fff;color:#24292e" tabindex="0"><code><span class="line"><span style="color:#6A737D"># With transparency</span></span>
+<span class="line"><span style="color:#24292E">sns.kdeplot(</span></span>
+<span class="line"><span style="color:#E36209">    data</span><span style="color:#D73A49">=</span><span style="color:#24292E">diamonds, </span><span style="color:#E36209">x</span><span style="color:#D73A49">=</span><span style="color:#032F62">"price"</span><span style="color:#24292E">, </span><span style="color:#E36209">hue</span><span style="color:#D73A49">=</span><span style="color:#032F62">"cut"</span><span style="color:#24292E">, </span><span style="color:#E36209">fill</span><span style="color:#D73A49">=</span><span style="color:#005CC5">True</span><span style="color:#24292E">, </span><span style="color:#E36209">common_norm</span><span style="color:#D73A49">=</span><span style="color:#005CC5">False</span><span style="color:#24292E">, </span><span style="color:#E36209">alpha</span><span style="color:#D73A49">=</span><span style="color:#005CC5">0.4</span></span>
+<span class="line"><span style="color:#24292E">)</span></span>
+<span class="line"><span style="color:#24292E">plt.show()</span></span></code></pre>30:["$","$L2c","notebook-cell-1",{"index":1,"code":"# With transparency\nsns.kdeplot(\n    data=diamonds, x=\"price\", hue=\"cut\", fill=True, common_norm=False, alpha=0.4\n)\nplt.show()","highlighted":"$39","interactive":true,"hasChart":true,"intro":[["$","p","p-0",{"children":"Note you can easily produce pretty much the same figure with some more transparency in order to see all groups"}]],"output":[["$","p","p-0",{"children":["$","img","img-0",{"src":"/posts/density-chart-multiple-groups-seaborn/output-2-800.webp","alt":"Density Chart with Multiple Groups (2)","width":1039,"height":683,"srcSet":"/posts/density-chart-multiple-groups-seaborn/output-2-800.webp 800w, /posts/density-chart-multiple-groups-seaborn/output-2-1600.webp 1600w","sizes":"(min-width: 820px) 780px, 100vw","loading":"lazy","decoding":"async"}]}]]}]
+3a:T51d,# libraries
+import seaborn as sns
+import matplotlib.pyplot as plt
+import pandas as pd
+
+# set seaborn whitegrid theme
+sns.set_theme(style="whitegrid")
+
+# load dataset from github and convert it to a long format
+data = pd.read_csv(
+    "https://raw.githubusercontent.com/zonination/perceptions/master/probly.csv"
+)
+data = pd.melt(data, var_name="text", value_name="value")
+
+# take only "Almost No Chance", "About Even", "Probable", "Almost Certainly"
+data = data.loc[
+    data.text.isin(["Almost No Chance", "About Even", "Probable", "Almost Certainly"])
+]
+
+# density plot
+p = sns.kdeplot(
+    data=data,
+    x="value",
+    hue="text",
+    fill=True,
+    common_norm=False,
+    alpha=0.6,
+    palette="viridis",
+    legend=False,
+)
+# control x limit
+plt.xlim(0, 100)
+
+# dataframe for annotations
+annot = pd.DataFrame(
+    {
+        "x": [5, 53, 65, 79],
+        "y": [0.15, 0.4, 0.06, 0.1],
+        "text": ["Almost No Chance", "About Even", "Probable", "Almost Certainly"],
+    }
+)
+
+# add annotations one by one with a loop
+for point in range(0, len(annot)):
+    p.text(
+        annot.x[point],
+        annot.y[point],
+        annot.text[point],
+        horizontalalignment="left",
+        size="large",
+    )
+
+# add axis names
+plt.xlabel("Assigned Probability (%)")
+plt.ylabel("")
+
+# show the graph
+plt.show()3b:T2170,<pre class="shiki github-light" style="background-color:#fff;color:#24292e" tabindex="0"><code><span class="line"><span style="color:#6A737D"># libraries</span></span>
+<span class="line"><span style="color:#D73A49">import</span><span style="color:#24292E"> seaborn </span><span style="color:#D73A49">as</span><span style="color:#24292E"> sns</span></span>
+<span class="line"><span style="color:#D73A49">import</span><span style="color:#24292E"> matplotlib.pyplot </span><span style="color:#D73A49">as</span><span style="color:#24292E"> plt</span></span>
+<span class="line"><span style="color:#D73A49">import</span><span style="color:#24292E"> pandas </span><span style="color:#D73A49">as</span><span style="color:#24292E"> pd</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#6A737D"># set seaborn whitegrid theme</span></span>
+<span class="line"><span style="color:#24292E">sns.set_theme(</span><span style="color:#E36209">style</span><span style="color:#D73A49">=</span><span style="color:#032F62">"whitegrid"</span><span style="color:#24292E">)</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#6A737D"># load dataset from github and convert it to a long format</span></span>
+<span class="line"><span style="color:#24292E">data </span><span style="color:#D73A49">=</span><span style="color:#24292E"> pd.read_csv(</span></span>
+<span class="line"><span style="color:#032F62">    "https://raw.githubusercontent.com/zonination/perceptions/master/probly.csv"</span></span>
+<span class="line"><span style="color:#24292E">)</span></span>
+<span class="line"><span style="color:#24292E">data </span><span style="color:#D73A49">=</span><span style="color:#24292E"> pd.melt(data, </span><span style="color:#E36209">var_name</span><span style="color:#D73A49">=</span><span style="color:#032F62">"text"</span><span style="color:#24292E">, </span><span style="color:#E36209">value_name</span><span style="color:#D73A49">=</span><span style="color:#032F62">"value"</span><span style="color:#24292E">)</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#6A737D"># take only "Almost No Chance", "About Even", "Probable", "Almost Certainly"</span></span>
+<span class="line"><span style="color:#24292E">data </span><span style="color:#D73A49">=</span><span style="color:#24292E"> data.loc[</span></span>
+<span class="line"><span style="color:#24292E">    data.text.isin([</span><span style="color:#032F62">"Almost No Chance"</span><span style="color:#24292E">, </span><span style="color:#032F62">"About Even"</span><span style="color:#24292E">, </span><span style="color:#032F62">"Probable"</span><span style="color:#24292E">, </span><span style="color:#032F62">"Almost Certainly"</span><span style="color:#24292E">])</span></span>
+<span class="line"><span style="color:#24292E">]</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#6A737D"># density plot</span></span>
+<span class="line"><span style="color:#24292E">p </span><span style="color:#D73A49">=</span><span style="color:#24292E"> sns.kdeplot(</span></span>
+<span class="line"><span style="color:#E36209">    data</span><span style="color:#D73A49">=</span><span style="color:#24292E">data,</span></span>
+<span class="line"><span style="color:#E36209">    x</span><span style="color:#D73A49">=</span><span style="color:#032F62">"value"</span><span style="color:#24292E">,</span></span>
+<span class="line"><span style="color:#E36209">    hue</span><span style="color:#D73A49">=</span><span style="color:#032F62">"text"</span><span style="color:#24292E">,</span></span>
+<span class="line"><span style="color:#E36209">    fill</span><span style="color:#D73A49">=</span><span style="color:#005CC5">True</span><span style="color:#24292E">,</span></span>
+<span class="line"><span style="color:#E36209">    common_norm</span><span style="color:#D73A49">=</span><span style="color:#005CC5">False</span><span style="color:#24292E">,</span></span>
+<span class="line"><span style="color:#E36209">    alpha</span><span style="color:#D73A49">=</span><span style="color:#005CC5">0.6</span><span style="color:#24292E">,</span></span>
+<span class="line"><span style="color:#E36209">    palette</span><span style="color:#D73A49">=</span><span style="color:#032F62">"viridis"</span><span style="color:#24292E">,</span></span>
+<span class="line"><span style="color:#E36209">    legend</span><span style="color:#D73A49">=</span><span style="color:#005CC5">False</span><span style="color:#24292E">,</span></span>
+<span class="line"><span style="color:#24292E">)</span></span>
+<span class="line"><span style="color:#6A737D"># control x limit</span></span>
+<span class="line"><span style="color:#24292E">plt.xlim(</span><span style="color:#005CC5">0</span><span style="color:#24292E">, </span><span style="color:#005CC5">100</span><span style="color:#24292E">)</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#6A737D"># dataframe for annotations</span></span>
+<span class="line"><span style="color:#24292E">annot </span><span style="color:#D73A49">=</span><span style="color:#24292E"> pd.DataFrame(</span></span>
+<span class="line"><span style="color:#24292E">    {</span></span>
+<span class="line"><span style="color:#032F62">        "x"</span><span style="color:#24292E">: [</span><span style="color:#005CC5">5</span><span style="color:#24292E">, </span><span style="color:#005CC5">53</span><span style="color:#24292E">, </span><span style="color:#005CC5">65</span><span style="color:#24292E">, </span><span style="color:#005CC5">79</span><span style="color:#24292E">],</span></span>
+<span class="line"><span style="color:#032F62">        "y"</span><span style="color:#24292E">: [</span><span style="color:#005CC5">0.15</span><span style="color:#24292E">, </span><span style="color:#005CC5">0.4</span><span style="color:#24292E">, </span><span style="color:#005CC5">0.06</span><span style="color:#24292E">, </span><span style="color:#005CC5">0.1</span><span style="color:#24292E">],</span></span>
+<span class="line"><span style="color:#032F62">        "text"</span><span style="color:#24292E">: [</span><span style="color:#032F62">"Almost No Chance"</span><span style="color:#24292E">, </span><span style="color:#032F62">"About Even"</span><span style="color:#24292E">, </span><span style="color:#032F62">"Probable"</span><span style="color:#24292E">, </span><span style="color:#032F62">"Almost Certainly"</span><span style="color:#24292E">],</span></span>
+<span class="line"><span style="color:#24292E">    }</span></span>
+<span class="line"><span style="color:#24292E">)</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#6A737D"># add annotations one by one with a loop</span></span>
+<span class="line"><span style="color:#D73A49">for</span><span style="color:#24292E"> point </span><span style="color:#D73A49">in</span><span style="color:#005CC5"> range</span><span style="color:#24292E">(</span><span style="color:#005CC5">0</span><span style="color:#24292E">, </span><span style="color:#005CC5">len</span><span style="color:#24292E">(annot)):</span></span>
+<span class="line"><span style="color:#24292E">    p.text(</span></span>
+<span class="line"><span style="color:#24292E">        annot.x[point],</span></span>
+<span class="line"><span style="color:#24292E">        annot.y[point],</span></span>
+<span class="line"><span style="color:#24292E">        annot.text[point],</span></span>
+<span class="line"><span style="color:#E36209">        horizontalalignment</span><span style="color:#D73A49">=</span><span style="color:#032F62">"left"</span><span style="color:#24292E">,</span></span>
+<span class="line"><span style="color:#E36209">        size</span><span style="color:#D73A49">=</span><span style="color:#032F62">"large"</span><span style="color:#24292E">,</span></span>
+<span class="line"><span style="color:#24292E">    )</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#6A737D"># add axis names</span></span>
+<span class="line"><span style="color:#24292E">plt.xlabel(</span><span style="color:#032F62">"Assigned Probability (%)"</span><span style="color:#24292E">)</span></span>
+<span class="line"><span style="color:#24292E">plt.ylabel(</span><span style="color:#032F62">""</span><span style="color:#24292E">)</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#6A737D"># show the graph</span></span>
+<span class="line"><span style="color:#24292E">plt.show()</span></span></code></pre>31:["$","$L2c","notebook-cell-2",{"index":2,"code":"$3a","highlighted":"$3b","interactive":true,"hasChart":true,"intro":"$L3c","output":"$L3d"}]
+32:["$","h2","h2-1",{"children":"Small Multiples"}]
+3e:Teb2,<pre class="shiki github-light" style="background-color:#fff;color:#24292e" tabindex="0"><code><span class="line"><span style="color:#6A737D"># libraries</span></span>
+<span class="line"><span style="color:#D73A49">import</span><span style="color:#24292E"> seaborn </span><span style="color:#D73A49">as</span><span style="color:#24292E"> sns</span></span>
+<span class="line"><span style="color:#D73A49">import</span><span style="color:#24292E"> matplotlib.pyplot </span><span style="color:#D73A49">as</span><span style="color:#24292E"> plt</span></span>
+<span class="line"><span style="color:#D73A49">from</span><span style="color:#24292E"> plotnine.data </span><span style="color:#D73A49">import</span><span style="color:#24292E"> diamonds  </span><span style="color:#6A737D"># dataset</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#6A737D"># set seaborn whitegrid theme</span></span>
+<span class="line"><span style="color:#24292E">sns.set_theme(</span><span style="color:#E36209">style</span><span style="color:#D73A49">=</span><span style="color:#032F62">"whitegrid"</span><span style="color:#24292E">)</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#6A737D"># using small multiple</span></span>
+<span class="line"><span style="color:#6A737D"># create a grid</span></span>
+<span class="line"><span style="color:#24292E">g </span><span style="color:#D73A49">=</span><span style="color:#24292E"> sns.FacetGrid(diamonds, </span><span style="color:#E36209">col</span><span style="color:#D73A49">=</span><span style="color:#032F62">"cut"</span><span style="color:#24292E">, </span><span style="color:#E36209">hue</span><span style="color:#D73A49">=</span><span style="color:#032F62">"cut"</span><span style="color:#24292E">, </span><span style="color:#E36209">col_wrap</span><span style="color:#D73A49">=</span><span style="color:#005CC5">3</span><span style="color:#24292E">)</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#6A737D"># draw density plots</span></span>
+<span class="line"><span style="color:#24292E">g </span><span style="color:#D73A49">=</span><span style="color:#24292E"> g.map(</span></span>
+<span class="line"><span style="color:#24292E">    sns.kdeplot, </span><span style="color:#032F62">"price"</span><span style="color:#24292E">, </span><span style="color:#E36209">cut</span><span style="color:#D73A49">=</span><span style="color:#005CC5">0</span><span style="color:#24292E">, </span><span style="color:#E36209">fill</span><span style="color:#D73A49">=</span><span style="color:#005CC5">True</span><span style="color:#24292E">, </span><span style="color:#E36209">common_norm</span><span style="color:#D73A49">=</span><span style="color:#005CC5">False</span><span style="color:#24292E">, </span><span style="color:#E36209">alpha</span><span style="color:#D73A49">=</span><span style="color:#005CC5">1</span><span style="color:#24292E">, </span><span style="color:#E36209">legend</span><span style="color:#D73A49">=</span><span style="color:#005CC5">False</span></span>
+<span class="line"><span style="color:#24292E">)</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#6A737D"># control the title of each facet</span></span>
+<span class="line"><span style="color:#24292E">g </span><span style="color:#D73A49">=</span><span style="color:#24292E"> g.set_titles(</span><span style="color:#032F62">"</span><span style="color:#005CC5">{col_name}</span><span style="color:#032F62">"</span><span style="color:#24292E">)</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#6A737D"># show the graph</span></span>
+<span class="line"><span style="color:#24292E">plt.show()</span></span></code></pre>33:["$","$L2c","notebook-cell-3",{"index":3,"code":"# libraries\nimport seaborn as sns\nimport matplotlib.pyplot as plt\nfrom plotnine.data import diamonds  # dataset\n\n# set seaborn whitegrid theme\nsns.set_theme(style=\"whitegrid\")\n\n# using small multiple\n# create a grid\ng = sns.FacetGrid(diamonds, col=\"cut\", hue=\"cut\", col_wrap=3)\n\n# draw density plots\ng = g.map(\n    sns.kdeplot, \"price\", cut=0, fill=True, common_norm=False, alpha=1, legend=False\n)\n\n# control the title of each facet\ng = g.set_titles(\"{col_name}\")\n\n# show the graph\nplt.show()","highlighted":"$3e","interactive":true,"hasChart":true,"intro":"$L3f","output":"$L40"}]
+34:["$","$L41","lead-magnet-0",{"chartType":"density","compact":true,"className":"full-bleed my-14"}]
+35:["$","h2","h2-2",{"children":"Stacked Density Chart"}]
+42:T9a7,<pre class="shiki github-light" style="background-color:#fff;color:#24292e" tabindex="0"><code><span class="line"><span style="color:#6A737D"># libraries</span></span>
+<span class="line"><span style="color:#D73A49">import</span><span style="color:#24292E"> seaborn </span><span style="color:#D73A49">as</span><span style="color:#24292E"> sns</span></span>
+<span class="line"><span style="color:#D73A49">import</span><span style="color:#24292E"> matplotlib.pyplot </span><span style="color:#D73A49">as</span><span style="color:#24292E"> plt</span></span>
+<span class="line"><span style="color:#D73A49">from</span><span style="color:#24292E"> plotnine.data </span><span style="color:#D73A49">import</span><span style="color:#24292E"> diamonds  </span><span style="color:#6A737D"># dataset</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#6A737D"># set seaborn whitegrid theme</span></span>
+<span class="line"><span style="color:#24292E">sns.set_theme(</span><span style="color:#E36209">style</span><span style="color:#D73A49">=</span><span style="color:#032F62">"whitegrid"</span><span style="color:#24292E">)</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#6A737D"># stacked density plot</span></span>
+<span class="line"><span style="color:#24292E">sns.kdeplot(</span></span>
+<span class="line"><span style="color:#E36209">    data</span><span style="color:#D73A49">=</span><span style="color:#24292E">diamonds, </span><span style="color:#E36209">x</span><span style="color:#D73A49">=</span><span style="color:#032F62">"price"</span><span style="color:#24292E">, </span><span style="color:#E36209">hue</span><span style="color:#D73A49">=</span><span style="color:#032F62">"cut"</span><span style="color:#24292E">, </span><span style="color:#E36209">common_norm</span><span style="color:#D73A49">=</span><span style="color:#005CC5">False</span><span style="color:#24292E">, </span><span style="color:#E36209">multiple</span><span style="color:#D73A49">=</span><span style="color:#032F62">"fill"</span><span style="color:#24292E">, </span><span style="color:#E36209">alpha</span><span style="color:#D73A49">=</span><span style="color:#005CC5">1</span></span>
+<span class="line"><span style="color:#24292E">)</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#6A737D"># show the graph</span></span>
+<span class="line"><span style="color:#24292E">plt.show()</span></span></code></pre>36:["$","$L2c","notebook-cell-4",{"index":4,"code":"# libraries\nimport seaborn as sns\nimport matplotlib.pyplot as plt\nfrom plotnine.data import diamonds  # dataset\n\n# set seaborn whitegrid theme\nsns.set_theme(style=\"whitegrid\")\n\n# stacked density plot\nsns.kdeplot(\n    data=diamonds, x=\"price\", hue=\"cut\", common_norm=False, multiple=\"fill\", alpha=1\n)\n\n# show the graph\nplt.show()","highlighted":"$42","interactive":true,"hasChart":true,"intro":[["$","p","p-0",{"children":["Another solution is to ",["$","strong","strong-0",{"children":"stack"}]," the groups by passing \"fill\" to the ",["$","code","code-0",{"children":"multiple"}]," argument of the function. This allows to see which group is the most frequent for a given value, but it makes hard to understand the distribution of a group that is not on the bottom of the chart."]}],"$L43"],"output":"$L44"}]
+37:["$","h2","h2-3",{"children":"More palettes with PyPalettes"}]
+45:T1098,<pre class="shiki github-light" style="background-color:#fff;color:#24292e" tabindex="0"><code><span class="line"><span style="color:#6A737D"># libraries</span></span>
+<span class="line"><span style="color:#D73A49">import</span><span style="color:#24292E"> seaborn </span><span style="color:#D73A49">as</span><span style="color:#24292E"> sns</span></span>
+<span class="line"><span style="color:#D73A49">import</span><span style="color:#24292E"> matplotlib.pyplot </span><span style="color:#D73A49">as</span><span style="color:#24292E"> plt</span></span>
+<span class="line"><span style="color:#D73A49">from</span><span style="color:#24292E"> plotnine.data </span><span style="color:#D73A49">import</span><span style="color:#24292E"> diamonds  </span><span style="color:#6A737D"># dataset</span></span>
+<span class="line"><span style="color:#D73A49">from</span><span style="color:#24292E"> pypalettes </span><span style="color:#D73A49">import</span><span style="color:#24292E"> load_palette</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#24292E">plt.rcParams[</span><span style="color:#032F62">"figure.dpi"</span><span style="color:#24292E">] </span><span style="color:#D73A49">=</span><span style="color:#005CC5"> 300</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#6A737D"># set seaborn whitegrid theme</span></span>
+<span class="line"><span style="color:#24292E">sns.set_theme(</span><span style="color:#E36209">style</span><span style="color:#D73A49">=</span><span style="color:#032F62">"whitegrid"</span><span style="color:#24292E">)</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#24292E">palette </span><span style="color:#D73A49">=</span><span style="color:#24292E"> load_palette(</span><span style="color:#032F62">"Acadia"</span><span style="color:#24292E">, </span><span style="color:#E36209">keep_first_n</span><span style="color:#D73A49">=</span><span style="color:#005CC5">5</span><span style="color:#24292E">)</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#6A737D"># stacked density plot</span></span>
+<span class="line"><span style="color:#24292E">fig, ax </span><span style="color:#D73A49">=</span><span style="color:#24292E"> plt.subplots(</span><span style="color:#E36209">figsize</span><span style="color:#D73A49">=</span><span style="color:#24292E">(</span><span style="color:#005CC5">10</span><span style="color:#24292E">, </span><span style="color:#005CC5">10</span><span style="color:#24292E">))</span></span>
+<span class="line"><span style="color:#24292E">sns.kdeplot(</span></span>
+<span class="line"><span style="color:#E36209">    data</span><span style="color:#D73A49">=</span><span style="color:#24292E">diamonds,</span></span>
+<span class="line"><span style="color:#E36209">    x</span><span style="color:#D73A49">=</span><span style="color:#032F62">"price"</span><span style="color:#24292E">,</span></span>
+<span class="line"><span style="color:#E36209">    hue</span><span style="color:#D73A49">=</span><span style="color:#032F62">"cut"</span><span style="color:#24292E">,</span></span>
+<span class="line"><span style="color:#E36209">    common_norm</span><span style="color:#D73A49">=</span><span style="color:#005CC5">False</span><span style="color:#24292E">,</span></span>
+<span class="line"><span style="color:#E36209">    multiple</span><span style="color:#D73A49">=</span><span style="color:#032F62">"fill"</span><span style="color:#24292E">,</span></span>
+<span class="line"><span style="color:#E36209">    alpha</span><span style="color:#D73A49">=</span><span style="color:#005CC5">1</span><span style="color:#24292E">,</span></span>
+<span class="line"><span style="color:#E36209">    palette</span><span style="color:#D73A49">=</span><span style="color:#24292E">palette,</span></span>
+<span class="line"><span style="color:#E36209">    ax</span><span style="color:#D73A49">=</span><span style="color:#24292E">ax,</span></span>
+<span class="line"><span style="color:#24292E">)</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#6A737D"># show the graph</span></span>
+<span class="line"><span style="color:#24292E">plt.show()</span></span></code></pre>38:["$","$L2c","notebook-cell-5",{"index":5,"code":"# libraries\nimport seaborn as sns\nimport matplotlib.pyplot as plt\nfrom plotnine.data import diamonds  # dataset\nfrom pypalettes import load_palette\n\nplt.rcParams[\"figure.dpi\"] = 300\n\n# set seaborn whitegrid theme\nsns.set_theme(style=\"whitegrid\")\n\npalette = load_palette(\"Acadia\", keep_first_n=5)\n\n# stacked density plot\nfig, ax = plt.subplots(figsize=(10, 10))\nsns.kdeplot(\n    data=diamonds,\n    x=\"price\",\n    hue=\"cut\",\n    common_norm=False,\n    multiple=\"fill\",\n    alpha=1,\n    palette=palette,\n    ax=ax,\n)\n\n# show the graph\nplt.show()","highlighted":"$45","interactive":true,"hasChart":true,"intro":"$L46","output":"$L47"}]
+3c:[["$","p","p-0",{"children":["Here is an example with ",["$","a","a-0",{"href":"https://www.data-to-viz.com/story/OneNumOneCatSeveralObs.html","children":"another dataset"}]," where it works much better. In this dataset, groups have very distinct distribution, and it is easy to spot them even if on the same chart. Note that it is recommended to add group name next to their distribution instead of having a legend beside the chart."]}]]
+3d:[["$","p","p-0",{"children":["$","img","img-0",{"src":"/posts/density-chart-multiple-groups-seaborn/output-3-800.webp","alt":"Density Chart with Multiple Groups (3)","width":1005,"height":683,"srcSet":"/posts/density-chart-multiple-groups-seaborn/output-3-800.webp 800w, /posts/density-chart-multiple-groups-seaborn/output-3-1600.webp 1600w","sizes":"(min-width: 820px) 780px, 100vw","loading":"lazy","decoding":"async"}]}]]
+3f:[["$","p","p-0",{"children":["By using small multiple, it gets easy to read the distribution of each group. It is still possible to compare groups since they share the same X axis boundaries. The ",["$","strong","strong-0",{"children":"faceting"}]," is made using the awesome ",["$","code","code-0",{"children":"FacetGrid()"}]," utility of ",["$","a","a-0",{"href":"http://python-graph-gallery.com/seaborn/","children":"seaborn"}],"."]}]]
+40:[["$","p","p-0",{"children":["$","img","img-0",{"src":"/posts/density-chart-multiple-groups-seaborn/output-4-800.webp","alt":"Density Chart with Multiple Groups: Small Multiples","width":884,"height":583,"srcSet":"/posts/density-chart-multiple-groups-seaborn/output-4-800.webp 800w, /posts/density-chart-multiple-groups-seaborn/output-4-1600.webp 1600w","sizes":"(min-width: 820px) 780px, 100vw","loading":"lazy","decoding":"async"}]}]]
+43:["$","p","p-1",{"children":["You can visit ",["$","a","a-0",{"href":"https://www.data-to-viz.com/caveat/stacking.html","children":"data to viz"}]," for a complete explanation on this matter."]}]
+44:[["$","p","p-0",{"children":["$","img","img-0",{"src":"/posts/density-chart-multiple-groups-seaborn/output-5-800.webp","alt":"Density Chart with Multiple Groups: Stacked Density Chart","width":1018,"height":689,"srcSet":"/posts/density-chart-multiple-groups-seaborn/output-5-800.webp 800w, /posts/density-chart-multiple-groups-seaborn/output-5-1600.webp 1600w","sizes":"(min-width: 820px) 780px, 100vw","loading":"lazy","decoding":"async"}]}]]
+46:[["$","p","p-0",{"children":["Thanks to the ",["$","a","a-0",{"href":"/color-palette-finder","children":"pypalettes"}]," library, it's very easy to ",["$","strong","strong-0",{"children":"customise the colormap"}]," with superb palettes. All you have to do is use the ",["$","code","code-0",{"children":"palette"}]," argument to the seaborn function and pass it a ",["$","strong","strong-1",{"children":"list of colours"}],", which we've loaded via the ",["$","code","code-1",{"children":"load_cmap()"}]," function in pypalettes."]}],["$","p","p-1",{"children":["You can find the palette of your dreams on the ",["$","a","a-0",{"href":"/color-palette-finder","children":"dedicated page"}]]}]]
+47:[["$","p","p-0",{"children":["$","img","img-0",{"src":"/posts/density-chart-multiple-groups-seaborn/output-6-800.webp","alt":"Density Chart with Multiple Groups: More palettes with PyPalettes","width":2595,"height":2532,"srcSet":"/posts/density-chart-multiple-groups-seaborn/output-6-800.webp 800w, /posts/density-chart-multiple-groups-seaborn/output-6-1600.webp 1600w","sizes":"(min-width: 820px) 780px, 100vw","loading":"lazy","decoding":"async"}]}]]
+21:0
+9:"$undefined"
+20:"$undefined"
+19:"$undefined"
